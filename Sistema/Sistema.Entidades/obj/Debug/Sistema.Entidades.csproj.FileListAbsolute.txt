@@ -1,0 +1,12 @@
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

@@ -1,0 +1,119 @@
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInsertarPersona.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLibro.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrestamo.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReporteLibros.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReportePrestamos.resources

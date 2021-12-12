@@ -1,0 +1,24 @@
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csprojAssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA 2021\N-capas\Tarea01_00091813\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.FrmConsulta.resources
+C:\Users\juanhumberto\Documents\UCA_2021\N-capas\Parte_3\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.GenerateResource.cache
